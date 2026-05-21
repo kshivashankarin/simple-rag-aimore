@@ -1,0 +1,7 @@
+RAG stands for Retrieval-Augmented Generation.
+
+RAG combines:
+1. Information Retrieval
+2. Large Language Models
+
+RAG improves AI responses using external knowledge.

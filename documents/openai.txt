@@ -1,0 +1,19 @@
+OpenAI provides powerful AI models.
+
+OpenAI offers:
+- GPT models
+- Embedding models
+- Image generation models
+- Speech models
+
+Embeddings are numerical vector representations of text.
+RAG
+RAG
+RAG
+RAG
+RAG
+RAG
+RAG
+RAG
+RAG
+RAG

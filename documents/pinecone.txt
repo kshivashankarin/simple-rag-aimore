@@ -1,0 +1,10 @@
+Pinecone is a vector database.
+
+It is used in AI applications for:
+- Similarity Search
+- Semantic Search
+- Vector Storage
+- Retrieval-Augmented Generation (RAG)
+
+Pinecone helps store embeddings efficiently.
+

@@ -1,0 +1,10 @@
+Python is a high-level programming language.
+
+Python is widely used in:
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+- Data Science
+- Automation
+
+Python is beginner-friendly and easy to learn.
