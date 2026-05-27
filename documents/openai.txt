@@ -7,13 +7,3 @@ OpenAI offers:
 - Speech models
 
 Embeddings are numerical vector representations of text.
-RAG
-RAG
-RAG
-RAG
-RAG
-RAG
-RAG
-RAG
-RAG
-RAG

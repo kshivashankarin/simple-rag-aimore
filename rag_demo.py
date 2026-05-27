@@ -148,7 +148,7 @@ while True:
     # ======================================
     results = index.query(
         vector=query_embedding,
-        top_k=2,
+        top_k=3,
         include_metadata=True
     )
 
@@ -169,16 +169,16 @@ while True:
     # Final Prompt
     # ======================================
     prompt = f"""
-You are a helpful AI assistant.
+        You are a helpful AI assistant.
 
-Answer ONLY using the provided context.
+        Answer ONLY using the provided context.
 
-Context:
-{final_context}
+        Context:
+        {final_context}
 
-Question:
-{user_query}
-"""
+        Question:
+        {user_query}
+        """
 
     # ======================================
     # Generate AI Response
